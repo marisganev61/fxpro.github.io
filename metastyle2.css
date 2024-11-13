@@ -1,0 +1,17 @@
+/*header*/
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 200%;
+}
+.btn{
+    border-radius: 50px;
+}
+
+/*vertical line*/
+.vertical-line{
+    border-left: 2px solid black;
+    height: 100px;
+   
+margin-left: 2%;
+}
